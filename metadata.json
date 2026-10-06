@@ -1,0 +1,6 @@
+{
+  "name": "Plan Agronómico de Maíz (0.5 Ha) - I.E. Técnico Agrícola",
+  "description": "Sistema técnico y arreglo productivo integral para el cultivo pedagógico y comercial de 0.5 ha de maíz: fenología, fertilización, sanidad vegetal, EPP y formatos de registro de campo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
